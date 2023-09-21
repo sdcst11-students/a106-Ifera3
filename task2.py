@@ -11,3 +11,6 @@
 # volume
 #
 # test output radius of 3 should give volume of 113.09733552923254
+
+r = int(input("what is the radius: "))
+v = 

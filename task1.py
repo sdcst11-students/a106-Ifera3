@@ -22,3 +22,7 @@ What ir your email:crazyAsian@qq.com
 Your name is Jackie Chan, and your email is crazyAsian@qq.com
 
 """
+
+_name = input("What is your name: ")
+_email = input("What is your email: ")
+print(f"Your name is {_name}, and your email is {_email}")
